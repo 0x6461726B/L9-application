@@ -1,5 +1,5 @@
 ﻿
-namespace WindowsFormsApp1
+namespace Ap0calypse
 {
     partial class L9
     {
